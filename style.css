@@ -5,6 +5,19 @@ body {
   height: 500px;
   width: 50%;
   border-width: 2px solid;
-  
 
+}
+
+p {
+  border: 5px solid blueviolet;
+  height: 150px;
+  width: 300px;
+  text-align: center;
+  padding: 30px;
+  background-color: brown;
+}
+
+h1 {
+  font-style: italic;
+  text-justify: inherit;
 }
